@@ -6,11 +6,11 @@
 	path = src/px4_ros_com
 	url = https://github.com/PX4/px4_ros_com.git
 	branch = main
-[submodule "src/src/external/px4_msgs"]
-	path = src/src/external/px4_msgs
+[submodule "src/external/px4_msgs"]
+	path = src/external/px4_msgs
 	url = https://github.com/PX4/px4_msgs.git
 	branch = main
-[submodule "src/src/external/px4_ros_com"]
-	path = src/src/external/px4_ros_com
+[submodule "src/external/px4_ros_com"]
+	path = src/external/px4_ros_com
 	url = https://github.com/PX4/px4_ros_com.git
 	branch = main
