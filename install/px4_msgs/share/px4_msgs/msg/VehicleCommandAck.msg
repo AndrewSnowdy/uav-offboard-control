@@ -1,1 +1,0 @@
-/home/andrewsnowdy/uav-offboard-control/src/src/external/px4_msgs/msg/VehicleCommandAck.msg

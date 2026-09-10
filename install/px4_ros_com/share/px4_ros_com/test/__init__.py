@@ -1,1 +1,0 @@
-/home/andrewsnowdy/uav-offboard-control/src/src/external/px4_ros_com/test/__init__.py

@@ -1,1 +1,0 @@
-/home/andrewsnowdy/uav-offboard-control/build/px4_msgs/rosidl_typesupport_introspection_c/px4_msgs/msg/detail/rc_parameter_map__rosidl_typesupport_introspection_c.h
